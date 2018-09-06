@@ -1,0 +1,24 @@
+1532517483471	geckodriver	INFO	geckodriver 0.19.1
+1532517483487	geckodriver	INFO	Listening on 127.0.0.1:2704
+1532517484080	mozrunner::runner	INFO	Running command: "D:\\normalsoftware\\mozilla\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fangyy\\AppData\\Local\\Temp\\rust_mozprofile.dA0ooPrLPa5x"
+1532517491189	Marionette	INFO	Listening on port 2709
+1532517491776	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/components/request-list-header.js, line 72: TypeError: this.refs.header is undefined
+rListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1532517231030	Marionette	INFO	Ceased listening
+IUrlClassifierDBService.getTables]
+1532265596006	Marionette	INFO	Ceased listening
+ line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1532265593413	Marionette	INFO	Ceased listening
+ssionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1532249035614	Marionette	INFO	Ceased listening

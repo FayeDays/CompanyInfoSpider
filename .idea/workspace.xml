@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2424af3-66a4-4870-9082-fd0cee5c1fce" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1755589580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="559" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="559" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1062355755">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="6407" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="6407" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="101" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="101" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_UpdateSubIndexAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/timer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_CompanyID.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesCNid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubIndexAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <element signature="e#68#83#0" expanded="true" />
+                <marker date="1535351839244" expanded="true" signature="758:1065" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSE2mysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="88" column="80" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="80" />
+              <folding>
+                <element signature="e#68#78#0" expanded="true" />
+                <marker date="1535552529587" expanded="true" signature="3938:5588" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSEUpdatemysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="800">
+              <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+              <folding>
+                <element signature="e#68#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+              <folding>
+                <element signature="e#68#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSEid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="24" column="96" selection-start-line="24" selection-start-column="96" selection-end-line="24" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_SubIndex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+              <folding>
+                <element signature="e#68#81#0" expanded="true" />
+                <marker date="1535552548409" expanded="true" signature="2617:2618" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pgs</find>
+      <find>pooleddbMyS</find>
+      <find>conn</find>
+      <find>date</find>
+      <find>name</find>
+      <find>FansComID</find>
+      <find>bulkdata</find>
+      <find>Id</find>
+      <find>id</find>
+      <find>AskedComID</find>
+      <find>RepComID</find>
+      <find>RepAskName</find>
+      <find>ITi</find>
+      <find>.</find>
+      <find>parse</find>
+      <find>text</find>
+      <find>time</find>
+      <find>test</find>
+      <find>print</find>
+      <find>parse_ta</find>
+      <find>config</find>
+      <find>cookie</find>
+      <find>record</find>
+      <find>urllist</find>
+      <find>page</find>
+      <find>varint</find>
+      <find>compid</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/middlewares.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CNCompId.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/run.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/SSECompanyID.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysqlsse.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CNCompanyID.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/cn_sse_companyID.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysql.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/settings.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelines.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSE.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesCN.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_WebInfo.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/SSEpipelines2mysqlbasdata.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_WebInfo.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/Config.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/items.py" />
+        <option value="$PROJECT_DIR$/../crawltest/crawltest/spiders/CrawlTest.py" />
+        <option value="C:/Tools/python 2.7/Lib/logging/__init__.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysqlbasdata.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysqlfast.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SSE_CompanyID.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_CompanyID.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_CompanyID.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubIndex.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesCnSubIndex.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesCN2mysql.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubAll.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSEid.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesUpdateTest.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/schedule.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubIndexAll.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesTest.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_UpdateSubIndex.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSEUpdatemysql.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_UpdateSubIndexAll.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesCNid.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSE2mysql.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_SubIndex.py" />
+        <option value="$PROJECT_DIR$/CompanyInfoSpider/spiders/timer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="745" />
+    <option name="y" value="80" />
+    <option name="width" value="1390" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CompanyInfoSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyInfoSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompanyInfoSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyInfoSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="CompanyInfoSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompanyInfoSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompanyInfoSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="CompanyInfoSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\CompanyInfoSpider\CompanyInfoSpider\settings.py" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\CompanyInfoSpider\CompanyInfoSpider" />
+      <recent name="C:\workspace\CompanyInfoSpider\CompanyInfoSpider\spiders" />
+      <recent name="D:\workspace\PycharmProjects\CompanyInfoSpider\CompanyInfoSpider\spiders" />
+      <recent name="D:\workspace\PycharmProjects\CompanyInfoSpider\CompanyInfoSpider" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.schedule">
+    <configuration name="CNCompId" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompanyInfoSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompanyInfoSpider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompanyInfoSpider/spiders/CNCompId.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pipelinesCN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompanyInfoSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompanyInfoSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompanyInfoSpider/pipelinesCN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompanyInfoSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompanyInfoSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompanyInfoSpider/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompanyInfoSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CompanyInfoSpider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CompanyInfoSpider/spiders/schedule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CNCompId" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.pipelinesCN" />
+      <item itemvalue="Python.schedule" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.schedule" />
+        <item itemvalue="Python.pipelinesCN" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.CNCompId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2424af3-66a4-4870-9082-fd0cee5c1fce" name="Default" comment="" />
+      <created>1531632861484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531632861484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15323646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984448" weight="0.35977337" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8895613" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.79260236" visible="true" weight="0.29461756" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32851985" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20739762" side_tool="true" weight="0.28186968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15587847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984448" weight="0.36101082" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8895613" weight="0.39868203" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.79260236" visible="true" weight="0.28186968" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32851985" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20739762" side_tool="true" visible="true" weight="0.28186968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CompanyInfoSpider/run.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CompanyInfoSpider/run.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraped_data.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CNCompId.py" />
+    <entry file="file://D:/software/python2.7/Scripts/pywin32_postinstall.py" />
+    <entry file="file://D:/software/python 3.4.0/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/data.json" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/ssepipelines2mysqlfast.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysqlsse.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/SSECompanyID.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CNCompanyID.py" />
+    <entry file="file://$USER_HOME$/Desktop/ket-master/Downloader.py" />
+    <entry file="file://$USER_HOME$/Desktop/ket-master/DataPersistance.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/Config.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/python2.7/sqlmap/sqlmap.py" />
+    <entry file="file://$PROJECT_DIR$/../crawltest/crawltest/spiders/CrawlTest.py" />
+    <entry file="file://$PROJECT_DIR$/../python 2.7/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../python 2.7/Lib/logging/__init__.py" />
+    <entry file="file://C:/Tools/python 2.7/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="888" column="36" lean-forward="true" selection-start-line="888" selection-start-column="36" selection-end-line="888" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2078">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysql.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_WebInfo.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesCN2mysql.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubAll.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubIndex.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesCnSubIndex.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_WebInfo.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysqlbasdata.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelines2mysqlfast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SSE_CompanyID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesCN.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSE.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/SSEpipelines2mysqlbasdata.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="18" column="87" lean-forward="true" selection-start-line="18" selection-start-column="87" selection-end-line="18" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/schedule.py" />
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_CompanyID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_UpdateSubIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesUpdateTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-482">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Tools/python 2.7/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_UpdateSubIndexAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_CompanyID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesCNid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/CN_SubIndexAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#68#83#0" expanded="true" />
+            <marker date="1535351839244" expanded="true" signature="758:1065" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSE2mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="88" column="80" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="80" />
+          <folding>
+            <element signature="e#68#78#0" expanded="true" />
+            <marker date="1535552529587" expanded="true" signature="3938:5588" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSEUpdatemysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding>
+            <element signature="e#68#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+          <folding>
+            <element signature="e#68#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/pipelinesSSEid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="96" selection-start-line="24" selection-start-column="96" selection-end-line="24" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/SSE_SubIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+          <folding>
+            <element signature="e#68#81#0" expanded="true" />
+            <marker date="1535552548409" expanded="true" signature="2617:2618" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompanyInfoSpider/spiders/timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
